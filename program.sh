@@ -15,7 +15,7 @@ yellow='\e[1;33m'
 BlueF='\e[1;34m'
 
 #Algunas variables
-date="`ls -la | grep prog*.sh | cut -c30-36`"
+date="`ls -la | grep program.sh | cut -c30-36`"
 version="1.0.0"
 mac=
 interfaces="`ifconfig | cut -c 1-4 | grep eth[0-9]` `ifconfig | cut -c 1-5 | grep wlan*` Volver"
