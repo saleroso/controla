@@ -51,7 +51,7 @@ mv README.md ../
 cd ..
 rm controla
 sleep 3
-down="`ls | grep progr*.sh`"
+down="`ls | grep program.sh`"
 chmod +x $down
 sleep 3
 ./$down
