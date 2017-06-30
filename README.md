@@ -1,4 +1,5 @@
 # controla
 Script básico diario
-Ya lo especificaré
+Para lanza el script ./controla.sh
+El script se actualiza automáticamente.
 Version: 2.0
